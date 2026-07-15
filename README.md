@@ -1,1 +1,1 @@
-# Este-repositorio-es-para-practicar-el-flujo-de-GitHub
+estoy aprendiendo fundamentos de Análisis de Datos
